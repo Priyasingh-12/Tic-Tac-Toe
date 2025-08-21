@@ -23,3 +23,4 @@ Take turns placing X’s and O’s on the grid.
 
 The first player to get 3 in a row (horizontal, vertical, or diagonal) wins.
 ![image alt](https://github.com/Priyasingh-12/Tic-Tac-Toe/blob/c9a2051e4bd9738f643758569cf5f45fd877a9ab/Screenshot%202025-08-21%20223502.png)
+ ![image alt](https://github.com/Priyasingh-12/Tic-Tac-Toe/blob/3de7dd9094818bf6104b55956b36aa9ade430311/Screenshot%202025-08-21%20222336.png)
