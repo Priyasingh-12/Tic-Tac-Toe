@@ -36,7 +36,7 @@ body {
     padding: 1rem;
     font-size: 1.25rem;
     color: azure;
-    background-color: #297373;
+      background: linear-gradient(135deg, #367676, #7fc5c6);
     border-radius: 1rem;
     border: none;
 }

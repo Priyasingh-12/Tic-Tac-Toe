@@ -1,0 +1,24 @@
+A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+Play against a friend and test your strategy skills in this classic 3x3 grid game.
+<br/>
+🚀# Features
+
+🎲 2-player mode (Player X vs Player O)
+
+🖥️ Simple, clean UI
+
+🔄 Reset option
+
+✅ Winner
+
+🎉 Highlighting winning combination
+<br/>
+🕹️ # How to Play
+
+Open the index.html file in your browser.
+
+Player X starts the game.
+
+Take turns placing X’s and O’s on the grid.
+
+The first player to get 3 in a row (horizontal, vertical, or diagonal) wins.
