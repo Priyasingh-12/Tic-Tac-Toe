@@ -40,3 +40,23 @@ body {
     border-radius: 1rem;
     border: none;
 }
+#new-btn{
+  padding: 1rem;
+    font-size: 1.25rem;
+    color: azure;
+     background: linear-gradient(135deg, #367676, #7fc5c6);
+    border-radius: 1rem;
+    border: none;  
+    margin-top: 10px;
+}
+#msg{
+ color: chocolate;
+ font-size: 6vmin;
+}
+.msg-container{
+  height: 30vmin;
+}
+.hide{
+  display: none;
+}
+
